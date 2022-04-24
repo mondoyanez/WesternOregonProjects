@@ -1,0 +1,132 @@
+C:\Users\ayane\Desktop\work\School\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ayane\Desktop\work\School\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\bin\Debug\net5.0\appsettings.json
+C:\Users\ayane\Desktop\work\School\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\bin\Debug\net5.0\global.json
+C:\Users\ayane\Desktop\work\School\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\bin\Debug\net5.0\MadLibs.exe
+C:\Users\ayane\Desktop\work\School\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\bin\Debug\net5.0\MadLibs.deps.json
+C:\Users\ayane\Desktop\work\School\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\bin\Debug\net5.0\MadLibs.runtimeconfig.json
+C:\Users\ayane\Desktop\work\School\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\bin\Debug\net5.0\MadLibs.runtimeconfig.dev.json
+C:\Users\ayane\Desktop\work\School\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\bin\Debug\net5.0\MadLibs.dll
+C:\Users\ayane\Desktop\work\School\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\bin\Debug\net5.0\MadLibs.pdb
+C:\Users\ayane\Desktop\work\School\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\bin\Debug\net5.0\MadLibs.Views.dll
+C:\Users\ayane\Desktop\work\School\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\bin\Debug\net5.0\MadLibs.Views.pdb
+C:\Users\ayane\Desktop\work\School\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.csproj.AssemblyReference.cache
+C:\Users\ayane\Desktop\work\School\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayane\Desktop\work\School\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.AssemblyInfoInputs.cache
+C:\Users\ayane\Desktop\work\School\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.AssemblyInfo.cs
+C:\Users\ayane\Desktop\work\School\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.csproj.CoreCompileInputs.cache
+C:\Users\ayane\Desktop\work\School\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ayane\Desktop\work\School\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.RazorAssemblyInfo.cache
+C:\Users\ayane\Desktop\work\School\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.RazorAssemblyInfo.cs
+C:\Users\ayane\Desktop\work\School\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\scopedcss\bundle\MadLibs.styles.css
+C:\Users\ayane\Desktop\work\School\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\staticwebassets\MadLibs.StaticWebAssets.Manifest.cache
+C:\Users\ayane\Desktop\work\School\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.TagHelpers.input.cache
+C:\Users\ayane\Desktop\work\School\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.TagHelpers.output.cache
+C:\Users\ayane\Desktop\work\School\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.RazorCoreGenerate.cache
+C:\Users\ayane\Desktop\work\School\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ayane\Desktop\work\School\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ayane\Desktop\work\School\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ayane\Desktop\work\School\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ayane\Desktop\work\School\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ayane\Desktop\work\School\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ayane\Desktop\work\School\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ayane\Desktop\work\School\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.RazorTargetAssemblyInfo.cache
+C:\Users\ayane\Desktop\work\School\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.RazorTargetAssemblyInfo.cs
+C:\Users\ayane\Desktop\work\School\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.Views.pdb
+C:\Users\ayane\Desktop\work\School\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.dll
+C:\Users\ayane\Desktop\work\School\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\refint\MadLibs.dll
+C:\Users\ayane\Desktop\work\School\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.pdb
+C:\Users\ayane\Desktop\work\School\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.genruntimeconfig.cache
+C:\Users\ayane\Desktop\work\School\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\ref\MadLibs.dll
+C:\Users\ayane\Desktop\work\School\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.csproj.CopyComplete
+C:\Users\ayane\Desktop\work\School\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\Razor\Views\RoadTrip\DisplayMadLibs.cshtml.g.cs
+C:\Users\ayane\Desktop\work\School\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\Razor\Views\RoadTrip\GenerateMadLibs.cshtml.g.cs
+C:\Users\ayane\Desktop\work\School\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\Razor\Views\Camp\DisplayMadLibs.cshtml.g.cs
+C:\Users\ayane\Desktop\work\School\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\Razor\Views\Camp\GenerateMadLibs.cshtml.g.cs
+C:\Users\ayane\Desktop\School\WOU\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ayane\Desktop\School\WOU\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\bin\Debug\net5.0\appsettings.json
+C:\Users\ayane\Desktop\School\WOU\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\bin\Debug\net5.0\global.json
+C:\Users\ayane\Desktop\School\WOU\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\bin\Debug\net5.0\MadLibs.exe
+C:\Users\ayane\Desktop\School\WOU\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\bin\Debug\net5.0\MadLibs.deps.json
+C:\Users\ayane\Desktop\School\WOU\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\bin\Debug\net5.0\MadLibs.runtimeconfig.json
+C:\Users\ayane\Desktop\School\WOU\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\bin\Debug\net5.0\MadLibs.runtimeconfig.dev.json
+C:\Users\ayane\Desktop\School\WOU\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\bin\Debug\net5.0\MadLibs.dll
+C:\Users\ayane\Desktop\School\WOU\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\bin\Debug\net5.0\MadLibs.pdb
+C:\Users\ayane\Desktop\School\WOU\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\bin\Debug\net5.0\MadLibs.Views.dll
+C:\Users\ayane\Desktop\School\WOU\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\bin\Debug\net5.0\MadLibs.Views.pdb
+C:\Users\ayane\Desktop\School\WOU\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.csproj.AssemblyReference.cache
+C:\Users\ayane\Desktop\School\WOU\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayane\Desktop\School\WOU\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.AssemblyInfoInputs.cache
+C:\Users\ayane\Desktop\School\WOU\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.AssemblyInfo.cs
+C:\Users\ayane\Desktop\School\WOU\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.csproj.CoreCompileInputs.cache
+C:\Users\ayane\Desktop\School\WOU\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ayane\Desktop\School\WOU\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.RazorAssemblyInfo.cache
+C:\Users\ayane\Desktop\School\WOU\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.RazorAssemblyInfo.cs
+C:\Users\ayane\Desktop\School\WOU\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\scopedcss\bundle\MadLibs.styles.css
+C:\Users\ayane\Desktop\School\WOU\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\staticwebassets\MadLibs.StaticWebAssets.Manifest.cache
+C:\Users\ayane\Desktop\School\WOU\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.TagHelpers.input.cache
+C:\Users\ayane\Desktop\School\WOU\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.TagHelpers.output.cache
+C:\Users\ayane\Desktop\School\WOU\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.RazorCoreGenerate.cache
+C:\Users\ayane\Desktop\School\WOU\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\Razor\Views\Camp\DisplayMadLibs.cshtml.g.cs
+C:\Users\ayane\Desktop\School\WOU\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\Razor\Views\Camp\GenerateMadLibs.cshtml.g.cs
+C:\Users\ayane\Desktop\School\WOU\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ayane\Desktop\School\WOU\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ayane\Desktop\School\WOU\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\Razor\Views\RoadTrip\DisplayMadLibs.cshtml.g.cs
+C:\Users\ayane\Desktop\School\WOU\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\Razor\Views\RoadTrip\GenerateMadLibs.cshtml.g.cs
+C:\Users\ayane\Desktop\School\WOU\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ayane\Desktop\School\WOU\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ayane\Desktop\School\WOU\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ayane\Desktop\School\WOU\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ayane\Desktop\School\WOU\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ayane\Desktop\School\WOU\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.RazorTargetAssemblyInfo.cache
+C:\Users\ayane\Desktop\School\WOU\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.RazorTargetAssemblyInfo.cs
+C:\Users\ayane\Desktop\School\WOU\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.Views.pdb
+C:\Users\ayane\Desktop\School\WOU\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.dll
+C:\Users\ayane\Desktop\School\WOU\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\refint\MadLibs.dll
+C:\Users\ayane\Desktop\School\WOU\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.pdb
+C:\Users\ayane\Desktop\School\WOU\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.genruntimeconfig.cache
+C:\Users\ayane\Desktop\School\WOU\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\ref\MadLibs.dll
+C:\Users\ayane\Desktop\School\WOU\Winter 2022\CS366\repo\w22---cs366-mondoyanez\7_Final_Project\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.csproj.CopyComplete
+C:\Users\ayane\Desktop\work\Portfolio\MadLibsSolution\MadLibs\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ayane\Desktop\work\Portfolio\MadLibsSolution\MadLibs\bin\Debug\net5.0\appsettings.json
+C:\Users\ayane\Desktop\work\Portfolio\MadLibsSolution\MadLibs\bin\Debug\net5.0\global.json
+C:\Users\ayane\Desktop\work\Portfolio\MadLibsSolution\MadLibs\bin\Debug\net5.0\MadLibs.exe
+C:\Users\ayane\Desktop\work\Portfolio\MadLibsSolution\MadLibs\bin\Debug\net5.0\MadLibs.deps.json
+C:\Users\ayane\Desktop\work\Portfolio\MadLibsSolution\MadLibs\bin\Debug\net5.0\MadLibs.runtimeconfig.json
+C:\Users\ayane\Desktop\work\Portfolio\MadLibsSolution\MadLibs\bin\Debug\net5.0\MadLibs.runtimeconfig.dev.json
+C:\Users\ayane\Desktop\work\Portfolio\MadLibsSolution\MadLibs\bin\Debug\net5.0\MadLibs.dll
+C:\Users\ayane\Desktop\work\Portfolio\MadLibsSolution\MadLibs\bin\Debug\net5.0\MadLibs.pdb
+C:\Users\ayane\Desktop\work\Portfolio\MadLibsSolution\MadLibs\bin\Debug\net5.0\MadLibs.Views.dll
+C:\Users\ayane\Desktop\work\Portfolio\MadLibsSolution\MadLibs\bin\Debug\net5.0\MadLibs.Views.pdb
+C:\Users\ayane\Desktop\work\Portfolio\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.csproj.AssemblyReference.cache
+C:\Users\ayane\Desktop\work\Portfolio\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayane\Desktop\work\Portfolio\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.AssemblyInfoInputs.cache
+C:\Users\ayane\Desktop\work\Portfolio\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.AssemblyInfo.cs
+C:\Users\ayane\Desktop\work\Portfolio\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.csproj.CoreCompileInputs.cache
+C:\Users\ayane\Desktop\work\Portfolio\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ayane\Desktop\work\Portfolio\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.RazorAssemblyInfo.cache
+C:\Users\ayane\Desktop\work\Portfolio\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.RazorAssemblyInfo.cs
+C:\Users\ayane\Desktop\work\Portfolio\MadLibsSolution\MadLibs\obj\Debug\net5.0\scopedcss\bundle\MadLibs.styles.css
+C:\Users\ayane\Desktop\work\Portfolio\MadLibsSolution\MadLibs\obj\Debug\net5.0\staticwebassets\MadLibs.StaticWebAssets.Manifest.cache
+C:\Users\ayane\Desktop\work\Portfolio\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.TagHelpers.input.cache
+C:\Users\ayane\Desktop\work\Portfolio\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.TagHelpers.output.cache
+C:\Users\ayane\Desktop\work\Portfolio\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.RazorCoreGenerate.cache
+C:\Users\ayane\Desktop\work\Portfolio\MadLibsSolution\MadLibs\obj\Debug\net5.0\Razor\Views\Camp\DisplayMadLibs.cshtml.g.cs
+C:\Users\ayane\Desktop\work\Portfolio\MadLibsSolution\MadLibs\obj\Debug\net5.0\Razor\Views\Camp\GenerateMadLibs.cshtml.g.cs
+C:\Users\ayane\Desktop\work\Portfolio\MadLibsSolution\MadLibs\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ayane\Desktop\work\Portfolio\MadLibsSolution\MadLibs\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ayane\Desktop\work\Portfolio\MadLibsSolution\MadLibs\obj\Debug\net5.0\Razor\Views\RoadTrip\DisplayMadLibs.cshtml.g.cs
+C:\Users\ayane\Desktop\work\Portfolio\MadLibsSolution\MadLibs\obj\Debug\net5.0\Razor\Views\RoadTrip\GenerateMadLibs.cshtml.g.cs
+C:\Users\ayane\Desktop\work\Portfolio\MadLibsSolution\MadLibs\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ayane\Desktop\work\Portfolio\MadLibsSolution\MadLibs\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ayane\Desktop\work\Portfolio\MadLibsSolution\MadLibs\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ayane\Desktop\work\Portfolio\MadLibsSolution\MadLibs\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ayane\Desktop\work\Portfolio\MadLibsSolution\MadLibs\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ayane\Desktop\work\Portfolio\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.RazorTargetAssemblyInfo.cache
+C:\Users\ayane\Desktop\work\Portfolio\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.RazorTargetAssemblyInfo.cs
+C:\Users\ayane\Desktop\work\Portfolio\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.Views.pdb
+C:\Users\ayane\Desktop\work\Portfolio\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.dll
+C:\Users\ayane\Desktop\work\Portfolio\MadLibsSolution\MadLibs\obj\Debug\net5.0\refint\MadLibs.dll
+C:\Users\ayane\Desktop\work\Portfolio\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.pdb
+C:\Users\ayane\Desktop\work\Portfolio\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.genruntimeconfig.cache
+C:\Users\ayane\Desktop\work\Portfolio\MadLibsSolution\MadLibs\obj\Debug\net5.0\ref\MadLibs.dll
+C:\Users\ayane\Desktop\work\Portfolio\MadLibsSolution\MadLibs\obj\Debug\net5.0\MadLibs.csproj.CopyComplete

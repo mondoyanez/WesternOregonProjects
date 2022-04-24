@@ -1,0 +1,42 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">MadLibs</h1>
+</div>
+<br>
+
+<div class="row">
+    <div class="col">
+        <div class="row">
+            <h4>Road Trip MadLib</h4>
+        </div>
+        <div class="row">
+            <p>Mad Lib story about an experiance while on a road trip.</p>
+        </div>
+        <div class="row">
+            <a asp-area="" asp-controller="RoadTrip" asp-action="GenerateMadLibs">
+                <button class="rounded btn-primary" type="button">Road Trip</button>
+            </a>
+        </div>
+    </div>
+    <div class="col">
+        <div class="row">
+            <h4>Camping MadLib</h4>
+        </div>
+        <div class="row">
+            <p>Mad Lib letter about how summer camp is going.</p>
+        </div>
+        <div class="row">
+            <a asp-area="" asp-controller="Camp" asp-action="GenerateMadLibs">
+                <button class="rounded btn-primary" type="button">Summer Camp</button>
+            </a>
+        </div>
+    </div>
+</div>
+<br>
+
+<div class="text-center">
+    <img src="/img/clipboard.png" alt="Picture of Clipboard" class="clipboard">
+</div>

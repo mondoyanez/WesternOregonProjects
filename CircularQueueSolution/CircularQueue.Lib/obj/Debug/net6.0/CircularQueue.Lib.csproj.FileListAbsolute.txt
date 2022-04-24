@@ -1,0 +1,12 @@
+C:\Users\ayane\Desktop\work\School\WOU\2021-22\Spring 2022\CS367\CircularQueueSolution\CircularQueue.Lib\bin\Debug\net6.0\CircularQueue.Lib.deps.json
+C:\Users\ayane\Desktop\work\School\WOU\2021-22\Spring 2022\CS367\CircularQueueSolution\CircularQueue.Lib\bin\Debug\net6.0\CircularQueue.Lib.dll
+C:\Users\ayane\Desktop\work\School\WOU\2021-22\Spring 2022\CS367\CircularQueueSolution\CircularQueue.Lib\bin\Debug\net6.0\CircularQueue.Lib.pdb
+C:\Users\ayane\Desktop\work\School\WOU\2021-22\Spring 2022\CS367\CircularQueueSolution\CircularQueue.Lib\obj\Debug\net6.0\CircularQueue.Lib.csproj.AssemblyReference.cache
+C:\Users\ayane\Desktop\work\School\WOU\2021-22\Spring 2022\CS367\CircularQueueSolution\CircularQueue.Lib\obj\Debug\net6.0\CircularQueue.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayane\Desktop\work\School\WOU\2021-22\Spring 2022\CS367\CircularQueueSolution\CircularQueue.Lib\obj\Debug\net6.0\CircularQueue.Lib.AssemblyInfoInputs.cache
+C:\Users\ayane\Desktop\work\School\WOU\2021-22\Spring 2022\CS367\CircularQueueSolution\CircularQueue.Lib\obj\Debug\net6.0\CircularQueue.Lib.AssemblyInfo.cs
+C:\Users\ayane\Desktop\work\School\WOU\2021-22\Spring 2022\CS367\CircularQueueSolution\CircularQueue.Lib\obj\Debug\net6.0\CircularQueue.Lib.csproj.CoreCompileInputs.cache
+C:\Users\ayane\Desktop\work\School\WOU\2021-22\Spring 2022\CS367\CircularQueueSolution\CircularQueue.Lib\obj\Debug\net6.0\CircularQueue.Lib.dll
+C:\Users\ayane\Desktop\work\School\WOU\2021-22\Spring 2022\CS367\CircularQueueSolution\CircularQueue.Lib\obj\Debug\net6.0\refint\CircularQueue.Lib.dll
+C:\Users\ayane\Desktop\work\School\WOU\2021-22\Spring 2022\CS367\CircularQueueSolution\CircularQueue.Lib\obj\Debug\net6.0\CircularQueue.Lib.pdb
+C:\Users\ayane\Desktop\work\School\WOU\2021-22\Spring 2022\CS367\CircularQueueSolution\CircularQueue.Lib\obj\Debug\net6.0\ref\CircularQueue.Lib.dll

@@ -1,0 +1,48 @@
+@model RoadTripMadLib
+@{
+    ViewData["Title"] = "Generate Mad Lib";
+}
+
+<div class="row">
+    <div class="text-center">
+        <h2 class="display-4">Road Trip Mad Libs</h2>
+    </div>
+</div>
+<br>
+
+<div class="row">
+    <p>Story from <a href="https://www.printablee.com/post_camping-mad-libs-printable_153008/">https://www.printablee.com/post_camping-mad-libs-printable_153008/</a></p>
+</div>
+
+@if (Model != null)
+{
+    <div class="row">
+        <p>YAY! IT'S ROAD TRIP DAY! MY FAMILY AND I HOPPED IN THE <span>@Model.Noun1.ToUpper()</span> FOR A <span>@Model.Adjective1.ToUpper()</span> WEEK AT THE 
+        <span>@Model.Noun2.ToUpper()</span>! WHEN WE STOPPED TO FILL UP THE <span>@Model.Adjective2.ToUpper()</span> TANK, A <span>@Model.Adjective3.ToUpper()</span> 
+        FROG <span>@Model.Verb1.ToUpper()</span> IN THE CAR WHILE WE <span>@Model.Verb2.ToUpper()</span> OUT TO GET <span>@Model.Number1</span> SNACKS. <span></span></p>
+    </div>
+
+    <div class="row">
+        <p>WE <span>@Model.Verb3.ToUpper()</span> BACK IN THE CAR AND <span>@Model.Adverb1.ToUpper()</span> GOT ON THE <span>@Model.Noun3.ToUpper()</span> 
+        ABOUT 30 MINUTES IN, THE <span>@Model.Color1.ToUpper()</span> FROG <span>@Model.Verb4.ToUpper()</span> ONTO THE <span>@Model.Noun4.ToUpper()</span> 
+        MY MOM WAS HOLDING! "<span>@Model.Exlamation1.ToUpper()</span>" SHE SCREAMED!</p>
+    </div>
+
+    <div class="row">
+        <p>"GET OFF!" MY DAD THOUGHT SHE WAS <span>@Model.Verb5.ToUpper()</span> TO HIM SO HE <span>@Model.Adverb2.ToUpper()</span> SWERVED THE 
+        <span>@Model.Noun5.ToUpper()</span> ONTO THE EXIT RAMP! WE <span>@Model.Verb6.ToUpper()</span> FROM LEFT TO RIGHT. THE FROG 
+        <span>@Model.Verb7.ToUpper()</span> ONTO THE <span>@Model.Noun6.ToUpper()</span> CAUSING MY DAD TO SLAM ON THE <span>@Model.PluralNoun.ToUpper()</span>. 
+        SNACKS WENT EVERYWHERE, MY MOM WAS <span>@Model.Verb8.ToUpper()</span> AND MY DAD <span>@Model.Name.ToUpper()</span>, <span>@Model.Verb9.ToUpper()</span> 
+        OUT OF THE CAR LIKE A <span>@Model.Noun7.ToUpper()</span>. MY BROTHER AND I <span>@Model.Verb10.ToUpper()</span>. THE <span>@Model.Adjective4.ToUpper()</span> 
+        FROG <span>@Model.Adverb3.ToUpper()</span> HOPPED OUT OFF INTO THE BRUSH.</p>
+    </div>
+
+    <div class="row">
+        <p>WE <span>@Model.Adverb4.ToUpper()</span> CLOSED THE <span>@Model.Noun8.ToUpper()</span> DOORS AND HEADED BACK ON THE 
+        <span>@Model.Verb11.ToUpper()</span> TO THE <span>@Model.Noun9.ToUpper()</span>.</p>
+    </div>
+
+    <div class="row">
+        <p>"WHAT A <span>@Model.Adjective5.ToUpper()</span> ROAD TRIP" MY MOM SAID!</p>
+    </div>
+}

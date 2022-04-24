@@ -1,0 +1,303 @@
+@model RoadTripMadLib
+
+@{
+    ViewData["Title"] = "MadLib";
+}
+
+<div class="text-center">
+    <div class="row">
+        <div class="col-md-2">
+            <input type="button" class="btn btn-primary" value="DEFAULT" id="RoadTripDefault">
+        </div>
+        <div class="col-md-6">
+            <h2>Fill in fields to generate Madlibs</h2>
+        </div>
+        <div class="col-md-2">
+            <input type="button" class="btn btn-primary" value="CLEAR" id="RoadTripClear">
+        </div>
+    </div>
+</div>
+
+<div class="row roadTrip-Content">
+
+    <form asp-controller="RoadTrip" asp-action="DisplayMadLibs" method="post">
+        <div asp-validation-summary="All"></div>
+
+    <div class="row">
+        <div class="col">
+            <label>Noun</label>
+        </div>
+        <div class="col-xs-4">
+            <input class="form-control" asp-for="Noun1">
+        </div>
+        <div class="col">
+            <label>Adjective</label>
+        </div>
+        <div class="col-xs-4">
+            <input class="form-control" asp-for="Adjective1">
+        </div>
+    </div>
+    <br>
+
+    <div class="row">
+        <div class="col">
+            <label>Noun</label>
+        </div>
+        <div class="col-xs-4">
+            <input class="form-control" asp-for="Noun2">
+        </div>
+        <div class="col">
+            <label>Adjective</label>
+        </div>
+        <div class="col-xs-4">
+            <input class="form-control" asp-for="Adjective2">
+        </div>
+    </div>
+    <br>
+
+    <div class="row">
+        <div class="col">
+            <label>Adjective</label>
+        </div>
+        <div class="col-xs-4">
+            <input class="form-control" asp-for="Adjective3">
+        </div>
+        <div class="col">
+            <label>Verb</label>
+        </div>
+        <div class="col-xs-4">
+            <input class="form-control" asp-for="Verb1">
+        </div>
+    </div>
+    <br>
+
+    <div class="row">
+        <div class="col">
+            <label>Verb</label>
+        </div>
+        <div class="col-xs-4">
+            <input class="form-control" asp-for="Verb2">
+        </div>
+        <div class="col">
+            <label>Number</label>
+        </div>
+        <div class="col-xs-4">
+            <input class="form-control" asp-for="Number1">
+        </div>
+    </div>
+    <br>
+
+    <div class="row">
+        <div class="col">
+            <label>Verb</label>
+        </div>
+        <div class="col-xs-4">
+            <input class="form-control" asp-for="Verb3">
+        </div>
+        <div class="col">
+            <label>Adverb</label>
+        </div>
+        <div class="col-xs-4">
+            <input class="form-control" asp-for="Adverb1">
+        </div>
+    </div>
+    <br>
+
+    <div class="row">
+        <div class="col">
+            <label>Noun</label>
+        </div>
+        <div class="col-xs-4">
+            <input class="form-control" asp-for="Noun3">
+        </div>
+        <div class="col">
+            <label>Color</label>
+        </div>
+        <div class="col-xs-4">
+            <input class="form-control" asp-for="Color1">
+        </div>
+    </div>
+    <br>
+
+    <div class="row">
+        <div class="col">
+            <label>Verb</label>
+        </div>
+        <div class="col-xs-4">
+            <input class="form-control" asp-for="Verb4">
+        </div>
+        <div class="col">
+            <label>Noun</label>
+        </div>
+        <div class="col-xs-4">
+            <input class="form-control" asp-for="Noun4">
+        </div>
+    </div>
+    <br>
+
+    <div class="row">
+        <div class="col">
+            <label>Exlamation</label>
+        </div>
+        <div class="col-xs-4">
+            <input class="form-control" asp-for="Exlamation1">
+        </div>
+        <div class="col">
+            <label>Verb</label>
+        </div>
+        <div class="col-xs-4">
+            <input class="form-control" asp-for="Verb5">
+        </div>
+    </div>
+    <br>
+
+    <div class="row">
+        <div class="col">
+            <label>Adverb</label>
+        </div>
+        <div class="col-xs-4">
+            <input class="form-control" asp-for="Adverb2">
+        </div>
+        <div class="col">
+            <label>Noun</label>
+        </div>
+        <div class="col-xs-4">
+            <input class="form-control" asp-for="Noun5">
+        </div>
+    </div>
+    <br>
+
+    <div class="row">
+        <div class="col">
+            <label>Verb</label>
+        </div>
+        <div class="col-xs-4">
+            <input class="form-control" asp-for="Verb6">
+        </div>
+        <div class="col">
+            <label>Verb</label>
+        </div>
+        <div class="col-xs-4">
+            <input class="form-control" asp-for="Verb7">
+        </div>
+    </div>
+    <br>
+
+    <div class="row">
+        <div class="col">
+            <label>Noun</label>
+        </div>
+        <div class="col-xs-4">
+            <input class="form-control" asp-for="Noun6">
+        </div>
+        <div class="col">
+            <label>Plural Noun</label>
+        </div>
+        <div class="col-xs-4">
+            <input class="form-control" asp-for="PluralNoun">
+        </div>
+    </div>
+    <br>
+
+    <div class="row">
+        <div class="col">
+            <label>Verb</label>
+        </div>
+        <div class="col-xs-4">
+            <input class="form-control" asp-for="Verb8">
+        </div>
+        <div class="col">
+            <label>Name</label>
+        </div>
+        <div class="col-xs-4">
+            <input class="form-control" asp-for="Name">
+        </div>
+    </div>
+    <br>
+
+    <div class="row">
+        <div class="col">
+            <label>Verb</label>
+        </div>
+        <div class="col-xs-4">
+            <input class="form-control" asp-for="Verb9">
+        </div>
+        <div class="col">
+            <label>Noun</label>
+        </div>
+        <div class="col-xs-4">
+            <input class="form-control" asp-for="Noun7">
+        </div>
+    </div>
+    <br>
+
+    <div class="row">
+        <div class="col">
+            <label>Verb</label>
+        </div>
+        <div class="col-xs-4">
+            <input class="form-control" asp-for="Verb10">
+        </div>
+        <div class="col">
+            <label>Adjective</label>
+        </div>
+        <div class="col-xs-4">
+            <input class="form-control" asp-for="Adjective4">
+        </div>
+    </div>
+    <br>
+
+    <div class="row">
+        <div class="col">
+            <label>Adverb</label>
+        </div>
+        <div class="col-xs-4">
+            <input class="form-control" asp-for="Adverb3">
+        </div>
+        <div class="col">
+            <label>Adverb</label>
+        </div>
+        <div class="col-xs-4">
+            <input class="form-control" asp-for="Adverb4">
+        </div>
+    </div>
+    <br>
+
+    <div class="row">
+        <div class="col">
+            <label>Noun</label>
+        </div>
+        <div class="col-xs-4">
+            <input class="form-control" asp-for="Noun8">
+        </div>
+        <div class="col">
+            <label>Verb</label>
+        </div>
+        <div class="col-xs-4">
+            <input class="form-control" asp-for="Verb11">
+        </div>
+    </div>
+    <br>
+
+    <div class="row">
+        <div class="col">
+            <label>Noun</label>
+        </div>
+        <div class="col-xs-4">
+            <input class="form-control" asp-for="Noun9">
+        </div>
+        <div class="col">
+            <label>Adjective</label>
+        </div>
+        <div class="col-xs-4">
+            <input class="form-control" asp-for="Adjective5">
+        </div>
+    </div>
+    <br>
+
+    <div class="row">
+        <input type="submit" class="btn btn-primary" value="Submit">
+    </div>
+
+    </form>
+</div>
