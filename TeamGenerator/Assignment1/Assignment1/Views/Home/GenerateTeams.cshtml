@@ -1,0 +1,61 @@
+﻿@model Assignment1.Models.TeamsModel
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center row team-row">
+    <h1 class="display-4">Generate Teams</h1>
+</div>
+
+@if (ViewBag.IsValid)
+{
+    var peopleAvailable = @Model.Names.Split('\n');
+    var currentPeopleIndex = 0;
+    var groupIndex = 0;
+    var currentGroup = 1;
+
+    var teamsShuffled = @Model.Shuffle(peopleAvailable);
+    Model.ColorsAvaliable = @Model.Shuffle(@Model.ColorsAvaliable);
+
+    <div class="container">
+        @while (!teamsShuffled.Length.Equals(currentPeopleIndex))
+        {
+            <div class="row team-row">
+                @while (groupIndex < 4)
+                {
+
+                    @if (teamsShuffled.Length.Equals(currentPeopleIndex))
+                    {
+                        break;
+                    }
+                    <div class="col-3">
+                        <div class="card" style="background-color: @Model.ColorsAvaliable[currentGroup % @Model.ColorsAvaliable.Length]">
+                            <div class="card-body">
+                                <h5 class="card-title" id="groupName">Group @currentGroup</h5>
+
+                                @for (int i = 0; i < @Model.NumTeams; i++)
+                                {
+                                    @if (teamsShuffled.Length.Equals(currentPeopleIndex))
+                                    {
+                                        break;
+                                    }
+                                    <p class="card-text">@teamsShuffled[currentPeopleIndex++]</p>
+                                }
+                            </div>
+                        </div>
+                    </div>
+
+                    currentGroup++;
+                    groupIndex++;
+                }
+            </div>
+            groupIndex = 0;
+        }
+
+        <div class="row" id="renameBtn">
+            <button class="rounded btn-primary" type="submit">Rename Teams</button>
+        </div>
+
+    </div>
+}

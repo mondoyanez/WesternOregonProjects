@@ -1,0 +1,35 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.team-row {
+    padding-bottom: 25px;
+}
+
+.label-text {
+    font-weight: bold;
+}
+
+.names-input-box {
+    width: 1000px;
+    height: 500px;
+}
+
+.generate-teams-btn {
+    padding-top: 35px;
+}

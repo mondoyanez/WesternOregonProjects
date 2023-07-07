@@ -1,0 +1,40 @@
+﻿@model Assignment1.Models.TeamsModel
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center row">
+    <h1 class="display-4">Generate Teams</h1>
+</div>
+
+<div class="row">
+    <form asp-controller="Home" asp-action="GenerateTeams" method="post">
+        <div asp-validation-summary="All"></div>
+        
+        <div class="row team-row">
+            <div class="col-2">
+                <label class="label-text">Enter Names: </label>
+            </div>
+            <div class="col-1">
+                <textarea asp-for="Names" class="names-input-box"></textarea>
+            </div>
+        </div>
+        
+        <div class="row team-row">
+            <div class="col-2">
+                <label class="label-text">Number per team: </label>
+            </div>
+            <div class="col-1">
+                <input type="number" asp-for="NumTeams"/>
+            </div>
+        </div>
+
+        <div class="row generate-teams-btn">
+            <div class="col-4">
+                <button class="rounded btn-primary" type="submit">Generate Teams</button>
+            </div>
+        </div>
+
+    </form>
+</div>
