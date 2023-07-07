@@ -1,0 +1,36 @@
+﻿@{
+    ViewData["Title"] = "GitHub Viewer";
+}
+
+<div class="row" id="github-user-content">
+    <div class="col-2">
+        <img src="" id="github-user-image" alt="GitHub Avatar" />
+    </div>
+    <div class="col-8" id="github-user-info">
+
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-4">
+        <h2>Repositories</h2>
+        <table class="table table-hover" id="repository-names" style="display: none"></table>
+    </div>
+    <div class="col-6">
+        <div class="row" id="repository-container" style="display: none">
+            <div class="col-6" id="repository-info">
+                
+            </div>
+            <div class="col-6">
+                <img src="" id="github-repo-image" alt="Repo Image" style="display: none"/>
+            </div>
+        </div>
+        <h2 style="display: none" id="commits-header">Commits</h2>
+        <table class="table table-hover table-striped table-bordered" id="commits-info" style="display: none"></table>
+    </div>
+</div>
+
+@section Scripts
+{
+    <script type="text/javascript" src="js/site.js"></script>
+}

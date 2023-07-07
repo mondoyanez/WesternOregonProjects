@@ -1,0 +1,78 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.branch-names {
+    padding-left: 35px;
+}
+
+.github-data {
+    color: white;
+}
+
+.commits-data {
+    padding: 10px;
+}
+
+.commit-link {
+    text-decoration: none;
+}
+
+#commits-info {
+    margin-top: 25px;
+}
+
+#github-user-info {
+    background-color: teal;
+}
+
+#github-user-content {
+    display: flex;
+    padding-bottom: 50px;
+}
+
+#github-user-image {
+    width: 216px;
+    height: 216px;
+}
+
+#github-repo-image {
+    width: 216px;
+    height: 216px;
+    margin-left: 102px;
+}
+
+#name-header {
+    color: orange;
+}
+
+#github-account-info {
+    color: white;
+}
+
+#repository-container {
+    background-color: green;
+    padding-bottom: 10px;
+    margin-bottom: 50px;
+}
+
+/*https://stackoverflow.com/questions/12528316/removing-underline-with-href-attribute*/
+#repository-header {
+    color: black;
+    text-decoration: none;
+}
